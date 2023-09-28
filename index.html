@@ -5,13 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather App</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css">   <!-- Linking Custom CSS file -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"
         integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
+        crossorigin="anonymous" referrerpolicy="no-referrer" />  <!-- Linking Font-Awesome CDN -->
 </head>
 
 <body>
+    <!-- Header Section -->
     <div class="header">
         <div class="logo">
             Weather<span> Now</span>
@@ -21,6 +22,7 @@
             <button class="search-btn">Get Weather</button>
         </div>
     </div>
+    <!-- Current location weather and Unit Change Section -->
     <div class="container">
         <div class="select-input">
             <label for="select-unit">Select Unit : </label>
@@ -37,6 +39,8 @@
             </button>
         </div>
     </div>
+
+    <!-- Main section of showing Weather Details -->
     <div class="main">
         <div class="weather-report">
             <div class="top">
@@ -90,7 +94,7 @@
             </div>
         </div>
     </div>
-    <script src="script.js"></script>
+    <script src="script.js"></script>  <!-- Linking Java Script File -->
 </body>
 
 </html>
