@@ -21,7 +21,7 @@ Welcome to the Weather App! This web application allows you to check the current
 
 ## Demo
 
-You can try the app live here: [Weather App Demo](https://example.com/weather-app)
+You can try the app live here: [Weather App Demo](https://weathernowbyabhi.netlify.app)
 
 ## Technologies Used
 
