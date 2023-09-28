@@ -16,8 +16,8 @@ Welcome to the Weather App! This web application allows you to check the current
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](images/screenshot1.png)
+![Screenshot 2](images/screenshot2.png)
 
 ## Demo
 
@@ -29,7 +29,6 @@ You can try the app live here: [Weather App Demo](https://example.com/weather-ap
 - CSS3
 - JavaScript
 - [OpenWeather API](https://openweathermap.org/api) for weather data
-- [Leaflet](https://leafletjs.com/) for maps
 - [FontAwesome](https://fontawesome.com/) for icons
 
 ## How to Use
