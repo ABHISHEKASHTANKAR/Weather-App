@@ -1,8 +1,6 @@
-# Weather App
+# Weather Now
 
-![Weather App Screenshot](screenshots/weather-app-screenshot.png)
-
-Welcome to the Weather App! This web application allows you to check the current weather conditions for different locations around the world.
+Welcome to the Weather Now App! This web application allows you to check the current weather conditions for different locations around the world.
 
 ## Features
 
